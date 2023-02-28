@@ -19,7 +19,7 @@ void simulate(string filename, restaurant *r, int testcase)
 ```
 - Then, right add the following code in the beginning of the result.cpp file:
  ```sh
-ofstream outfile;
+ofstream outfile;  //don't forget to close at the end of the function
 ```
 -Then declare it in the simulate function
  ```sh
