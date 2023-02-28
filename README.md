@@ -18,7 +18,7 @@ void simulate(string filename, restaurant *r, int testcase)
 ```
 - Then, right below it, add:
  ```sh
-ifstream file(filename);
+ifstream (your_file)(filename); //change *your_file" to name you use for reading file
 ofstream outfile("got" + to_string(testcase) + ".txt");
 ```
 - Change all **cout** in result.cpp file to  **outfile**
