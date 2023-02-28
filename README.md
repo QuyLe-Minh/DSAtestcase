@@ -9,7 +9,7 @@ git clone https://github.com/QuyLe-Minh/DSAtestcase.git
 ```
 - Then unzip all files in input_and_output and src to the same folder
 ## 2. main.cpp file
-- Make a copy of your main file (restaurant.cpp) and the paste it to the same folder of the unziped file. For simplicity, please rename your copied file to "result.cpp" to make it synthesize with mine.
+- Make a copy of your main file (restaurant.cpp) and the paste it to the same folder of the unziped file. For simplicity, please rename your copied file to *result.cpp* to make it synthesize with mine.
 - In main.cpp file I've already made for you, include your result.cpp file you created above.
 ## 3. result.cpp file
 - In simulate funtion, change it to: 
