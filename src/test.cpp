@@ -41,7 +41,7 @@ int main() {
 
         if (getline(output, got) || getline(expected, expect)){
             SetConsoleTextAttribute(hConsole, FOREGROUND_RED);
-            cout << "\u0058 Maybe you missing something?" << endl;
+            cout << "\u0058 Wrong at case " + to_string(i+1) + ". Maybe you missing something? Check got" + to_string(i+1)  +".txt file" << endl;
             SetConsoleTextAttribute(hConsole, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE);
             abort();
         }
