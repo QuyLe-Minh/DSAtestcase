@@ -17,7 +17,7 @@ git clone https://github.com/QuyLe-Minh/DSAtestcase.git
 ```sh
 void simulate(string filename, restaurant *r, int testcase)
 ```
-- Then, right add the following code in the beginning of the result.cpp file:
+- Then, add the following code in the beginning of the result.cpp file (right below include:
  ```sh
 ofstream outfile; 
 ```
