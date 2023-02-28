@@ -12,6 +12,7 @@ git clone https://github.com/QuyLe-Minh/DSAtestcase.git
 - Make a copy of your main file (restaurant.cpp) and the paste it to the same folder. For simplicity, please rename your copied file to **result.cpp** to make it synthesize with mine.
 - In **main.cpp** file I've already made for you, include your copied file path. If you already rename to **result.cpp**, skip this step.
 ## 3. result.cpp file
+- Except PS, PQ, SQ, there are no other *cout* in this file.
 - In **simulate** funtion, change it to: 
 ```sh
 void simulate(string filename, restaurant *r, int testcase)
