@@ -6,7 +6,6 @@ using namespace std;
 
 /*
     --------------------------------------------------------------------------------------------------------
-    AUTHOR: QUY LE MINH
     UPDATE DATE: 02/28/2023
 
     IF YOU HAVE ANY ISSUE OR PROBLEM RELATED TO THESE TESTCASES, CONTACT ME VIA: www.facebook.com/quyleemin
