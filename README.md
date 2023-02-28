@@ -19,11 +19,11 @@ void simulate(string filename, restaurant *r, int testcase)
 ```
 - Then, right add the following code in the beginning of the result.cpp file:
  ```sh
-ofstream outfile;  //don't forget to close at the end of the function
+ofstream outfile; 
 ```
 -Then declare it in the simulate function
  ```sh
-outfile.open("got" + to_string(testcase) + ".txt");
+outfile.open("got" + to_string(testcase) + ".txt"); //don't forget to close at the end of the function
 ```
 - Finally, replace all **cout** in result.cpp file to  **outfile**. For example, instead of *cout << "Empty\n;* change to *outfile << "Empty\n"*.
 # Compile
