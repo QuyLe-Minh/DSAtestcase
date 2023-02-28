@@ -17,9 +17,13 @@ git clone https://github.com/QuyLe-Minh/DSAtestcase.git
 ```sh
 void simulate(string filename, restaurant *r, int testcase)
 ```
-- Then, right below it, add:
+- Then, right add the following code in the beginning of the result.cpp file:
  ```sh
-ofstream outfile("got" + to_string(testcase) + ".txt");
+ofstream outfile;
+```
+-Then declare it in the simulate function
+ ```sh
+outfile.open("got" + to_string(testcase) + ".txt");
 ```
 - Finally, replace all **cout** in result.cpp file to  **outfile**. For example, instead of *cout << "Empty\n;* change to *outfile << "Empty\n"*.
 # Compile
