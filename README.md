@@ -20,7 +20,7 @@ void simulate(string filename, restaurant *r, int testcase)
  ```sh
 ofstream outfile("got" + to_string(testcase) + ".txt");
 ```
-- Finally, change all **cout** in result.cpp file to  **outfile**
+- Finally, replace all **cout** in result.cpp file to  **outfile**
 # Compile
 - ASan is a powerful tool to check memory leak of your program and tt works really well on Linux. You can read documentations of how to install it.
 - (Optional) For checking memory leak, first change directory to your folder, then run the command below, in here I'm using clang compiler:
