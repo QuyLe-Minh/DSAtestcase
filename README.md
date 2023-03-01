@@ -11,6 +11,7 @@ git clone https://github.com/QuyLe-Minh/DSAtestcase.git
 ```
 - Then unzip all files in *input_and_output* and *src* to the same folder
 ## 2. main.cpp file
+- This file used for generate got.txt files. If you already generated, skip it.
 - Make a copy of your main file (restaurant.cpp) and the paste it to the same folder. For simplicity, please rename your copied file to **result.cpp** to make it synthesize with mine.
 - In **main.cpp** file I've already made for you, include your copied file path. If you already rename to **result.cpp**, skip this step.
 ## 3. result.cpp file
