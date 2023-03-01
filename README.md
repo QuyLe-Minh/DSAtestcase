@@ -1,6 +1,6 @@
 # DSAtestcase
 # Update
-- (03/01/2022) I've already fixed bug in SQ command.
+- (03/01/2022 10:00) I've already fixed bug in SQ command.
 - (03/01/2022 14:44) There are bugs in PQ command. Please hold on until I debug it. At the latest by 5pm, I will upload the latest files.
 # Introduction
 The reason why I make this to support you and me to get 10 points at DSA assignment 1 <("). If you have any issues with my result, please contact me via www.fb.com/quyleemin and we will debug together :)).  
