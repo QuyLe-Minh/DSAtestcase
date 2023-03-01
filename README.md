@@ -1,4 +1,7 @@
 # DSAtestcase
+# Update
+## 1. Update 1
+(03/01/2022) I've already fixed bug in SQ command. Kindly download the input_and_output file again and run. Thanks!!
 # Introduction
 The reason why I make this to support you and me to get 10 points at DSA assignment 1 <("). If you have any issues with my result, please contact me via www.fb.com/quyleemin and we will debug together :)).  
 # Set up
@@ -38,6 +41,3 @@ clang++ -fsanitize=address -g main.cpp -o main
 
 # Bottom line
 This is only for reference purposes. I will not be responsible for any complaints regarding your grades.
-
-# Update 1
-I've already fixed bug in SQ command. Kindly download the input_and_output file again and run. Thanks!!
