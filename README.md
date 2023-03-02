@@ -1,6 +1,5 @@
 # DSAtestcase
 # Update
-- (03/01/2022 10:00) I've already fixed bug in SQ command.
 - (03/01/2022 17:15) I've already fixed bug in PQ command.
 - (04/01/2022 20:45) Fixed more bugs in SQ command. 
 - (04/01/2022 21:45) Fixed bugs in REGM command. Hope this time it works perfectly. Kindly redownload output folder and run again. Thanks!
