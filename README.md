@@ -1,9 +1,9 @@
 # DSAtestcase
 # Update
-- (03/01/2022 17:15) I've already fixed bug in PQ command.
-- (03/02/2022 20:45) Fixed more bugs in SQ command. 
-- (03/02/2022 21:45) Fixed bugs in REGM command. Hope this time it works perfectly
-- (03/10/2022 11:00) Regenerate all input and output files to meet requirements. Kindly redownload input and output folder and run again. Thanks!
+- (03/01/2023 17:15) I've already fixed bug in PQ command.
+- (03/02/2023 20:45) Fixed more bugs in SQ command. 
+- (03/02/2023 21:45) Fixed bugs in REGM command. Hope this time it works perfectly
+- (03/10/2023 11:00) Regenerate all input and output files to meet requirements. Kindly redownload input and output folder and run again. Thanks!
 # Introduction
 The reason why I make this to support you and me to get 10 points at DSA assignment 1 <("). If you have any issues with my result, please contact me via www.fb.com/quyleemin and we will debug together :)).  
 # Set up
