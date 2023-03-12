@@ -4,7 +4,7 @@
 - (03/02/2023 20:45) Fixed more bugs in SQ command. 
 - (03/02/2023 21:45) Fixed bugs in REGM command. Hope this time it works perfectly
 - (03/10/2023 11:00) Regenerate all input and output files to meet requirements. 
-- (03/12/2023 15:15) Add 100 more testcases (PT included). Kindly re-clone my repos and debug. Thankss!!
+- (03/12/2023 15:30) Add 100 more testcases (PT included). Kindly re-clone my repos and debug. Thankss!!
 # Introduction
 The reason why I make this to support you and me to get 10 points at DSA assignment 1 <("). If you have any issues with my result, please contact me via www.fb.com/quyleemin and we will debug together :)).  
 # Set up
