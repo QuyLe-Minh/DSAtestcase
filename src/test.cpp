@@ -25,7 +25,7 @@ void assert(string expected, string got, int line, int testcase){
 int main() {
     string s1, s2;
     HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
-    for (int i = 0; i < 100; i++){
+    for (int i = 0; i < 200; i++){
         string expect = "expected" + to_string(i+1) + ".txt";
         string got = "got" + to_string(i+1) + ".txt";
 
