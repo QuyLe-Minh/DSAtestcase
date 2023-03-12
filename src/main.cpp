@@ -3,7 +3,7 @@
 
 int main(int argc, char* argv[]) {
 
-    for (int j = 1; j <= 100; j++){
+    for (int j = 1; j <= 200; j++){
 
         restaurant* r = new restaurant();
 
